@@ -1,1 +1,1 @@
-Live demo: peterEKB.github.io/random-users/
+Live demo: https://peterEKB.github.io/random-users/
